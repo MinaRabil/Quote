@@ -1,0 +1,6 @@
+.spec-btn {
+    background-color: blue;
+}
+.spec-btn:hover{
+    background-color: green;
+}
